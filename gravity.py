@@ -6,7 +6,7 @@ from matplotlib import pyplot
 #Define window
 root = tkinter.Tk()
 root.title('Gravity Simulator')
-root.iconbitmap('earth.ico')
+root.iconbitmap('resources/icons/earth.ico')
 root.geometry('500x650')
 root.resizable(0,0)
 
